@@ -8,6 +8,7 @@ Uses regular expressions for efficient pattern matching.
 Provides a simple command-line interface for input.
 
 Usage:
+
 Clone the repository and navigate to the project directory.
 Open the index.html file in a web browser.
 Enter a phone number in the input field and click the "Validate" button.
